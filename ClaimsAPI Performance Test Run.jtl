@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1622563605824,191,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-3,text,true,,3776,383,49,49,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,191,0,56
+1622563606015,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-3,text,true,,2724,0,49,49,null,0,0,0
+1622563605824,194,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-5,text,true,,3776,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,194,0,67
+1622563606018,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-5,text,true,,2724,0,50,50,null,0,0,0
+1622563605822,199,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-1,text,true,,3776,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,199,0,63
+1622563606021,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-1,text,true,,2724,0,50,50,null,0,0,0
+1622563605847,178,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-14,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,178,0,57
+1622563606025,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-14,text,true,,2725,0,50,50,null,0,0,0
+1622563605830,196,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-4,text,true,,3776,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,196,0,74
+1622563606026,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-4,text,true,,2724,0,50,50,null,0,0,0
+1622563605822,210,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-2,text,true,,3776,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,210,0,75
+1622563606032,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-2,text,true,,2724,0,50,50,null,0,0,0
+1622563605833,200,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-8,text,true,,3776,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,200,0,79
+1622563606033,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-8,text,true,,2724,0,50,50,null,0,0,0
+1622563605830,207,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-6,text,true,,3776,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,207,0,64
+1622563606037,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-6,text,true,,2724,0,50,50,null,0,0,0
+1622563605833,207,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-10,text,true,,3775,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,207,0,70
+1622563606040,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-10,text,true,,2723,0,50,50,null,0,0,0
+1622563605834,206,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-11,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,206,0,77
+1622563606040,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-11,text,true,,2725,0,50,50,null,0,0,0
+1622563605831,211,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-7,text,true,,3776,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,211,0,81
+1622563606042,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-7,text,true,,2724,0,50,50,null,0,0,0
+1622563605841,203,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-12,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,203,0,71
+1622563606044,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-12,text,true,,2725,0,50,50,null,0,0,0
+1622563605832,216,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-9,text,true,,3776,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,216,0,89
+1622563606048,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-9,text,true,,2724,0,50,50,null,0,0,0
+1622563605847,208,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-13,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,207,0,73
+1622563606055,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-13,text,true,,2725,0,50,50,null,0,0,0
+1622563605918,197,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-28,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,197,0,69
+1622563606115,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-28,text,true,,2725,0,50,50,null,0,0,0
+1622563605861,255,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-19,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,255,0,130
+1622563606116,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-19,text,true,,2725,0,50,50,null,0,0,0
+1622563605855,262,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-17,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,262,0,137
+1622563606117,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-17,text,true,,2725,0,50,50,null,0,0,0
+1622563605925,198,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-32,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,198,0,65
+1622563606123,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-32,text,true,,2725,0,50,50,null,0,0,0
+1622563605869,255,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-21,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,254,0,118
+1622563606123,1,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-21,text,true,,2725,0,50,50,null,0,0,0
+1622563605848,277,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-16,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,277,0,146
+1622563606125,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-16,text,true,,2725,0,50,50,null,0,0,0
+1622563605917,210,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-27,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,210,0,75
+1622563606127,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-27,text,true,,2725,0,50,50,null,0,0,0
+1622563605925,202,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-31,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,202,0,69
+1622563606127,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-31,text,true,,2725,0,50,50,null,0,0,0
+1622563605901,228,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-23,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,228,0,97
+1622563606129,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-23,text,true,,2725,0,50,50,null,0,0,0
+1622563605933,197,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-37,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,197,0,69
+1622563606130,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-37,text,true,,2725,0,50,50,null,0,0,0
+1622563605927,204,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-34,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,204,0,62
+1622563606131,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-34,text,true,,2725,0,50,50,null,0,0,0
+1622563605918,213,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-29,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,213,0,72
+1622563606131,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-29,text,true,,2725,0,50,50,null,0,0,0
+1622563605932,203,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-36,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,202,0,68
+1622563606135,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-36,text,true,,2725,0,50,50,null,0,0,0
+1622563605924,211,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-30,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,211,0,69
+1622563606135,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-30,text,true,,2725,0,50,50,null,0,0,0
+1622563605909,226,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-25,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,226,0,83
+1622563606135,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-25,text,true,,2725,0,50,50,null,0,0,0
+1622563605868,270,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-20,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,270,0,126
+1622563606138,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-20,text,true,,2725,0,50,50,null,0,0,0
+1622563605860,278,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-18,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,278,0,143
+1622563606138,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-18,text,true,,2725,0,50,50,null,0,0,0
+1622563605937,203,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-33,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,203,0,63
+1622563606140,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-33,text,true,,2725,0,50,50,null,0,0,0
+1622563605910,231,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-26,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,231,0,90
+1622563606141,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-26,text,true,,2725,0,50,50,null,0,0,0
+1622563605909,235,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-24,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,235,0,95
+1622563606144,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-24,text,true,,2725,0,50,50,null,0,0,0
+1622563605989,182,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-39,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,182,0,62
+1622563606171,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-39,text,true,,2725,0,50,50,null,0,0,0
+1622563605945,230,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-38,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,230,0,94
+1622563606175,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-38,text,true,,2725,0,50,50,null,0,0,0
+1622563605991,190,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-40,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,190,0,60
+1622563606181,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-40,text,true,,2725,0,50,50,null,0,0,0
+1622563606006,184,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-47,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,184,0,63
+1622563606190,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-47,text,true,,2725,0,50,50,null,0,0,0
+1622563606005,187,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-46,text,true,,3775,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,187,0,68
+1622563606192,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-46,text,true,,2723,0,50,50,null,0,0,0
+1622563605995,197,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-42,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,197,0,55
+1622563606192,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-42,text,true,,2725,0,50,50,null,0,0,0
+1622563605993,205,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-41,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,205,0,69
+1622563606198,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-41,text,true,,2725,0,50,50,null,0,0,0
+1622563606007,197,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-48,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,197,0,66
+1622563606204,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-48,text,true,,2725,0,50,50,null,0,0,0
+1622563606001,206,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-44,text,true,,3775,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,205,0,63
+1622563606207,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-44,text,true,,2723,0,50,50,null,0,0,0
+1622563605900,316,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-22,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,316,0,86
+1622563606216,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-22,text,true,,2725,0,50,50,null,0,0,0
+1622563605928,314,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-35,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,314,0,73
+1622563606242,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-35,text,true,,2725,0,50,50,null,0,0,0
+1622563606021,231,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-1,text,true,,101457,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,206,0,0
+1622563606252,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-1,text,true,,2835,0,50,50,null,0,0,0
+1622563606015,272,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-3,text,true,,101512,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,248,0,0
+1622563606287,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-3,text,true,,2835,0,50,50,null,0,0,0
+1622563605997,318,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-43,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,318,0,64
+1622563606315,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-43,text,true,,2725,0,50,50,null,0,0,0
+1622563605848,470,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-15,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,470,0,154
+1622563606318,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-15,text,true,,2725,0,50,50,null,0,0,0
+1622563606016,308,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-50,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,308,0,60
+1622563606324,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-50,text,true,,2725,0,50,50,null,0,0,0
+1622563606013,312,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-49,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,312,0,64
+1622563606325,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-49,text,true,,2725,0,50,50,null,0,0,0
+1622563606033,301,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-8,text,true,,101558,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,277,0,0
+1622563606334,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-8,text,true,,2835,0,50,50,null,0,0,0
+1622563606002,400,ClaimsAPI Token Request,200,OK,Claims API Thread Group 1-45,text,true,,3777,383,50,50,https://dev.gnpapi.protectiveinsurance.com/authorization-service/accesstoken,400,0,75
+1622563606402,0,ClaimsAPI Token Request-0,200,OK,Claims API Thread Group 1-45,text,true,,2725,0,50,50,null,0,0,0
+1622563606048,368,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-9,text,true,,101465,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,346,0,0
+1622563606416,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-9,text,true,,2835,0,50,50,null,0,0,0
+1622563606040,379,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-10,text,true,,101504,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,356,0,0
+1622563606419,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-10,text,true,,2835,0,50,50,null,0,0,0
+1622563606025,395,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-14,text,true,,101481,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,370,0,0
+1622563606420,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-14,text,true,,2836,0,50,50,null,0,0,0
+1622563606032,389,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-2,text,true,,101566,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,364,0,0
+1622563606421,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-2,text,true,,2835,0,50,50,null,0,0,0
+1622563606044,378,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-12,text,true,,101474,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,351,0,0
+1622563606422,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-12,text,true,,2836,0,50,50,null,0,0,0
+1622563606037,387,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-6,text,true,,101473,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,360,0,0
+1622563606424,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-6,text,true,,2835,0,50,50,null,0,0,0
+1622563606042,424,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-7,text,true,,101481,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,400,0,0
+1622563606466,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-7,text,true,,2835,0,50,50,null,0,0,0
+1622563606055,411,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-13,text,true,,101490,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,387,0,0
+1622563606466,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-13,text,true,,2836,0,50,50,null,0,0,0
+1622563606026,442,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-4,text,true,,101448,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,416,0,0
+1622563606468,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-4,text,true,,2834,0,50,50,null,0,0,0
+1622563606041,516,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-11,text,true,,101458,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,490,0,0
+1622563606557,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-11,text,true,,2836,0,50,50,null,0,0,0
+1622563606115,453,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-28,text,true,,101449,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,429,0,0
+1622563606568,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-28,text,true,,2835,0,50,50,null,0,0,0
+1622563606117,451,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-17,text,true,,101490,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,427,0,0
+1622563606568,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-17,text,true,,2836,0,50,50,null,0,0,0
+1622563606130,439,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-37,text,true,,101466,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,415,0,0
+1622563606569,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-37,text,true,,2836,0,50,50,null,0,0,0
+1622563606127,450,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-31,text,true,,101473,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,427,0,0
+1622563606577,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-31,text,true,,2836,0,50,50,null,0,0,0
+1622563606129,471,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-23,text,true,,101573,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,448,0,0
+1622563606600,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-23,text,true,,2836,0,50,50,null,0,0,0
+1622563606123,579,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-32,text,true,,101521,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,555,0,0
+1622563606702,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-32,text,true,,2836,0,50,50,null,0,0,0
+1622563606172,530,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-39,text,true,,101474,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,506,0,0
+1622563606702,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-39,text,true,,2836,0,50,50,null,0,0,0
+1622563606192,511,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-46,text,true,,101557,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,486,0,0
+1622563606703,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-46,text,true,,2836,0,50,50,null,0,0,0
+1622563606175,528,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-38,text,true,,101466,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,504,0,0
+1622563606703,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-38,text,true,,2836,0,50,50,null,0,0,0
+1622563606116,588,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-19,text,true,,101458,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,564,0,0
+1622563606704,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-19,text,true,,2836,0,50,50,null,0,0,0
+1622563606140,621,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-33,text,true,,101450,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,597,0,0
+1622563606761,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-33,text,true,,2836,0,50,50,null,0,0,0
+1622563606181,608,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-40,text,true,,101458,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,590,0,0
+1622563606789,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-40,text,true,,2836,0,50,50,null,0,0,0
+1622563606138,657,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-18,text,true,,101474,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,628,0,0
+1622563606795,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-18,text,true,,2836,0,50,50,null,0,0,0
+1622563606125,670,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-16,text,true,,101545,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,647,0,0
+1622563606795,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-16,text,true,,2836,0,50,50,null,0,0,0
+1622563606127,669,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-27,text,true,,101506,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,644,0,0
+1622563606796,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-27,text,true,,2836,0,50,50,null,0,0,0
+1622563606131,668,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-29,text,true,,101599,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,644,0,0
+1622563606799,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-29,text,true,,2835,0,50,50,null,0,0,0
+1622563606252,572,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-1,text,true,,7190,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002489/claimants,572,1,0,0,0
+1622563606824,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-1,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606135,722,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-30,text,true,,101465,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,698,0,0
+1622563606857,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-30,text,true,,2835,0,50,50,null,0,0,0
+1622563606021,839,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-5,text,true,,101489,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,816,0,0
+1622563606860,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-5,text,true,,2835,0,50,50,null,0,0,0
+1622563606198,719,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-41,text,true,,101466,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,697,0,0
+1622563606917,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-41,text,true,,2836,0,50,50,null,0,0,0
+1622563606141,776,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-26,text,true,,101489,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,754,0,0
+1622563606917,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-26,text,true,,2836,0,50,50,null,0,0,0
+1622563606135,784,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-25,text,true,,101466,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,760,0,0
+1622563606919,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-25,text,true,,2836,0,50,50,null,0,0,0
+1622563606216,704,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-22,text,true,,101552,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,681,0,0
+1622563606920,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-22,text,true,,2836,0,50,50,null,0,0,0
+1622563606131,789,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-34,text,true,,101465,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,764,0,0
+1622563606920,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-34,text,true,,2836,0,50,50,null,0,0,0
+1622563606190,732,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-47,text,true,,101482,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,709,0,0
+1622563606922,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-47,text,true,,2836,0,50,50,null,0,0,0
+1622563606242,687,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-35,text,true,,101528,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,663,0,0
+1622563606929,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-35,text,true,,2836,0,50,50,null,0,0,0
+1622563606334,622,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-8,text,true,,6030,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742/claimants,622,1,0,0,0
+1622563606956,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-8,text,true,,2987,0,50,50,null,0,1,0,0,0
+1622563606288,673,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-3,text,true,,7232,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00001968/claimants,673,1,0,0,0
+1622563606961,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-3,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606417,544,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-9,text,true,,5228,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055/claimants,544,1,0,0,0
+1622563606961,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-9,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606568,394,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-28,text,true,,5117,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003660/claimants,394,1,0,0,0
+1622563606962,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-28,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606601,362,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-23,text,true,,7233,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003034/claimants,362,1,0,0,0
+1622563606963,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-23,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606466,543,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-7,text,true,,5164,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00002319/claimants,543,1,0,0,0
+1622563607009,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-7,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606569,441,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-37,text,true,,5199,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253/claimants,441,1,0,0,0
+1622563607010,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-37,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606569,441,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-17,text,true,,5140,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004403/claimants,441,1,0,0,0
+1622563607010,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-17,text,true,,2987,0,50,50,null,0,1,0,0,0
+1622563606577,434,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-31,text,true,,5212,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/claimants,434,1,0,0,0
+1622563607011,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-31,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606421,590,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-10,text,true,,5143,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505/claimants,590,1,0,0,0
+1622563607011,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-10,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606468,544,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-4,text,true,,5132,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00010885/claimants,544,1,0,0,0
+1622563607012,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-4,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606424,588,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-6,text,true,,5142,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505/claimants,588,1,0,0,0
+1622563607012,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-6,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606557,456,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-11,text,true,,5153,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004693/claimants,455,1,0,0,0
+1622563607012,1,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-11,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606421,592,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-2,text,true,,5090,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005131/claimants,592,1,0,0,0
+1622563607013,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-2,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606420,626,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-14,text,true,,5161,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/claimants,626,1,0,0,0
+1622563606466,580,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-13,text,true,,5229,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055/claimants,579,1,0,0,0
+1622563607046,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-14,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607046,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-13,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606702,345,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-32,text,true,,5225,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/claimants,345,1,0,0,0
+1622563607047,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-32,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606204,844,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-48,text,true,,101490,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,821,0,0
+1622563607048,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-48,text,true,,2836,0,50,50,null,0,0,0
+1622563606422,627,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-12,text,true,,6032,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742/claimants,627,1,0,0,0
+1622563607049,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-12,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606192,859,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-42,text,true,,101513,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,835,0,0
+1622563607051,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-42,text,true,,2835,0,50,50,null,0,0,0
+1622563606315,736,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-43,text,true,,101450,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,711,0,0
+1622563607051,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-43,text,true,,2836,0,50,50,null,0,0,0
+1622563606135,924,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-36,text,true,,101526,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,896,0,0
+1622563607059,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-36,text,true,,2836,0,50,50,null,0,0,0
+1622563606318,769,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-15,text,true,,101529,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,745,0,0
+1622563607087,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-15,text,true,,2836,0,50,50,null,0,0,0
+1622563606324,765,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-50,text,true,,101543,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,740,0,0
+1622563607089,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-50,text,true,,2836,0,50,50,null,0,0,0
+1622563606824,276,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-1,text,true,,5171,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002489,276,1,0,0,0
+1622563607100,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-1,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606761,339,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-33,text,true,,5224,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/claimants,339,1,0,0,0
+1622563607100,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-33,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606703,416,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-38,text,true,,5236,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165/claimants,416,1,0,0,0
+1622563607119,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-38,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606796,323,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-27,text,true,,5236,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165/claimants,323,1,0,0,0
+1622563607119,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-27,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606795,327,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-16,text,true,,8362,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033/claimants,327,1,0,0,0
+1622563607122,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-16,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606795,328,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-18,text,true,,5204,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001016/claimants,328,1,0,0,0
+1622563607123,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-18,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606124,1001,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-21,text,true,,101497,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,978,0,0
+1622563607125,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-21,text,true,,2836,0,50,50,null,0,0,0
+1622563606704,423,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-19,text,true,,5127,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341/claimants,423,1,0,0,0
+1622563607127,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-19,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606799,329,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-29,text,true,,5105,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003996/claimants,329,1,0,0,0
+1622563607128,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-29,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606790,340,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-40,text,true,,5162,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/claimants,339,1,0,0,0
+1622563607130,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-40,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606703,428,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-46,text,true,,5201,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172/claimants,428,1,0,0,0
+1622563607131,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-46,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606325,809,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-49,text,true,,101528,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,786,0,0
+1622563607134,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-49,text,true,,2835,0,50,50,null,0,0,0
+1622563606402,735,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-45,text,true,,101498,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,710,0,0
+1622563607137,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-45,text,true,,2836,0,50,50,null,0,0,0
+1622563606702,442,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-39,text,true,,7233,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324/claimants,442,1,0,0,0
+1622563607144,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-39,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606917,228,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-41,text,true,,5199,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253/claimants,228,1,0,0,0
+1622563607145,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-41,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606860,290,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-5,text,true,,5126,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341/claimants,290,1,0,0,0
+1622563607150,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-5,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606920,230,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-22,text,true,,8354,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033/claimants,230,1,0,0,0
+1622563607150,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-22,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606857,294,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-30,text,true,,5202,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00005435/claimants,294,1,0,0,0
+1622563607151,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-30,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606917,240,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-26,text,true,,6036,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003589/claimants,240,1,0,0,0
+1622563607157,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-26,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606957,200,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-8,text,true,,5082,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742,200,1,0,0,0
+1622563607157,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-8,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606144,1014,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-24,text,true,,101498,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,989,0,0
+1622563607158,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-24,text,true,,2836,0,50,50,null,0,0,0
+1622563606929,233,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-35,text,true,,5213,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005185/claimants,233,1,0,0,0
+1622563607162,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-35,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606922,240,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-47,text,true,,6055,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001892/claimants,240,1,0,0,0
+1622563607162,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-47,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606207,957,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-44,text,true,,101458,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,931,0,0
+1622563607164,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-44,text,true,,2836,0,50,50,null,0,0,0
+1622563606961,207,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-9,text,true,,5337,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055,207,1,0,0,0
+1622563607168,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-9,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606921,248,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-34,text,true,,6038,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002662/claimants,248,1,0,0,0
+1622563607169,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-34,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606962,211,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-28,text,true,,5265,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003660,211,1,0,0,0
+1622563607173,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-28,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606961,215,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-3,text,true,,5178,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00001968,215,1,0,0,0
+1622563607176,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-3,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563606963,221,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-23,text,true,,5153,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003034,221,1,0,0,0
+1622563607184,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-23,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563606138,1048,ClaimsAPI Get Multiple Claims Request,200,OK,Claims API Thread Group 1-20,text,true,,101506,1092,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/Claims?FromDate=2020-01-01,1023,0,0
+1622563607186,0,ClaimsAPI Get Multiple Claims Request-0,200,OK,Claims API Thread Group 1-20,text,true,,2836,0,50,50,null,0,0,0
+1622563606919,284,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-25,text,true,,6035,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003259/claimants,283,1,0,0,0
+1622563607203,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-25,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607013,249,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-11,text,true,,5229,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004693,249,1,0,0,0
+1622563607262,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-11,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607012,256,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-4,text,true,,5143,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00010885,256,1,0,0,0
+1622563607268,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-4,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607011,258,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-31,text,true,,5269,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002,258,1,0,0,0
+1622563607269,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-31,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607013,257,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-2,text,true,,5295,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005131,257,1,0,0,0
+1622563607270,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-2,text,true,,2987,0,50,50,null,0,1,0,0,0
+1622563607010,261,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-17,text,true,,5340,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004403,261,1,0,0,0
+1622563607271,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-17,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607010,269,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-37,text,true,,5179,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253,269,1,0,0,0
+1622563607279,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-37,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607009,292,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-7,text,true,,5229,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00002319,292,1,0,0,0
+1622563607301,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-7,text,true,,2987,0,50,50,null,0,1,0,0,0
+1622563607011,311,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-10,text,true,,5251,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505,311,1,0,0,0
+1622563607322,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-10,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607047,276,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-32,text,true,,5310,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283,276,1,0,0,0
+1622563607323,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-32,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607046,278,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-13,text,true,,5338,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055,278,1,0,0,0
+1622563607324,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-13,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607049,276,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-12,text,true,,5083,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742,276,1,0,0,0
+1622563607325,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-12,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607012,313,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-6,text,true,,5250,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505,313,1,0,0,0
+1622563607325,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-6,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607046,284,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-14,text,true,,5282,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991,284,1,0,0,0
+1622563607330,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-14,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607051,279,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-42,text,true,,5212,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/claimants,279,1,0,0,0
+1622563607330,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-42,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607051,284,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-43,text,true,,6063,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099/claimants,284,1,0,0,0
+1622563607335,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-43,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607048,287,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-48,text,true,,7233,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324/claimants,287,1,0,0,0
+1622563607335,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-48,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607100,338,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-1,text,true,,4400,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/0ef3c1e7e8d21103e4bb2f6878aaf32f,338,0,0
+1622563607438,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-1,text,true,,2987,0,50,50,null,0,0,0
+1622563607101,341,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-33,text,true,,5310,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283,341,1,0,0,0
+1622563607442,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-33,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607119,327,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-38,text,true,,5347,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165,327,1,0,0,0
+1622563607446,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-38,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607087,363,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-15,text,true,,6062,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099/claimants,362,1,0,0,0
+1622563607450,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-15,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607120,332,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-27,text,true,,5347,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165,332,1,0,0,0
+1622563607452,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-27,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607059,396,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-36,text,true,,5157,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004211/claimants,396,1,0,0,0
+1622563607455,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-36,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607162,427,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-35,text,true,,5112,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005185,427,1,0,0,0
+1622563607589,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-35,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607176,417,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-3,text,true,,4451,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/cbef72ae4d887ee8f16764494aa8de65,417,0,0
+1622563607593,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-3,text,true,,2987,0,50,50,null,0,0,0
+1622563607173,421,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-28,text,true,,4647,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/1cf8f1b44455dfdb3c591677fef0feed,420,0,0
+1622563607593,1,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-28,text,true,,2989,0,50,50,null,0,0,0
+1622563607151,443,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-30,text,true,,5230,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00005435,443,1,0,0,0
+1622563607594,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-30,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607127,471,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-19,text,true,,5212,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341,470,1,0,0,0
+1622563607598,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-19,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607131,468,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-46,text,true,,5202,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172,468,1,0,0,0
+1622563607599,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-46,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607184,416,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-23,text,true,,4451,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/e8ebdf12e608884a8d4ea4af35b89b46,416,0,0
+1622563607600,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-23,text,true,,2989,0,50,50,null,0,0,0
+1622563607158,442,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-24,text,true,,5200,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172/claimants,442,1,0,0,0
+1622563607600,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-24,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607145,456,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-41,text,true,,5179,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253,456,1,0,0,0
+1622563607601,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-41,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607144,457,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-39,text,true,,5251,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324,457,1,0,0,0
+1622563607601,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-39,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607128,476,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-29,text,true,,5261,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003996,476,1,0,0,0
+1622563607604,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-29,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607186,419,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-20,text,true,,6051,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003576/claimants,419,1,0,0,0
+1622563607605,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-20,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607134,472,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-49,text,true,,5224,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/claimants,472,1,0,0,0
+1622563607606,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-49,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607150,456,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-22,text,true,,5243,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033,456,1,0,0,0
+1622563607606,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-22,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607169,439,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-34,text,true,,5066,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002662,439,1,0,0,0
+1622563607608,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-34,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607150,458,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-5,text,true,,5211,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341,458,1,0,0,0
+1622563607608,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-5,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607123,485,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-18,text,true,,5284,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001016,485,1,0,0,0
+1622563607608,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-18,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607162,446,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-47,text,true,,5169,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001892,446,1,0,0,0
+1622563607608,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-47,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607157,454,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-26,text,true,,5101,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003589,454,1,0,0,0
+1622563607611,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-26,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607130,482,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-40,text,true,,5283,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991,482,1,0,0,0
+1622563607612,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-40,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607138,478,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-45,text,true,,5156,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003513/claimants,478,1,0,0,0
+1622563607616,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-45,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607125,492,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-21,text,true,,5139,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004270/claimants,492,1,0,0,0
+1622563607617,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-21,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607168,450,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-9,text,true,,4758,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/67e5ae8f3baa711f7e9f4cea407c4d3e,450,0,0
+1622563607618,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-9,text,true,,2988,0,50,50,null,0,0,0
+1622563607089,531,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-50,text,true,,5212,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/claimants,531,1,0,0,0
+1622563607620,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-50,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607279,363,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-37,text,true,,4729,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/cc460ad9b0b2fdac072f1a194ecf9fba,363,0,0
+1622563607642,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-37,text,true,,2989,0,50,50,null,0,0,0
+1622563607268,379,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-4,text,true,,4662,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/e8f5538bf2345fd2087144eccd37edd8,379,0,0
+1622563607647,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-4,text,true,,2988,0,50,50,null,0,0,0
+1622563607271,376,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-17,text,true,,4672,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/8b5e9c6c4e54b97f2a066ac680bfef7c,376,0,0
+1622563607647,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-17,text,true,,2989,0,50,50,null,0,0,0
+1622563607262,386,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-11,text,true,,4683,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/4b7013196c64da54268e1797c73974f9,386,0,0
+1622563607648,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-11,text,true,,2989,0,50,50,null,0,0,0
+1622563607158,490,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-8,text,true,,4400,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/07cdecfd7c10c6d58051b8575aa5bfae,490,0,0
+1622563607648,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-8,text,true,,2988,0,50,50,null,0,0,0
+1622563607203,446,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-25,text,true,,5131,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003259,446,1,0,0,0
+1622563607649,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-25,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607269,381,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-31,text,true,,4742,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/14e365a5d3c5321ebe147fe3443fcec8,381,0,0
+1622563607650,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-31,text,true,,2989,0,50,50,null,0,0,0
+1622563607270,381,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-2,text,true,,4620,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/1d39a7032eae1621deb28de43a879025,381,0,0
+1622563607651,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-2,text,true,,2988,0,50,50,null,0,0,0
+1622563607164,492,ClaimsAPI Get Claimants Request,200,OK,Claims API Thread Group 1-44,text,true,,5162,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/claimants,492,1,0,0,0
+1622563607656,0,ClaimsAPI Get Claimants Request-0,200,OK,Claims API Thread Group 1-44,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607301,437,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-7,text,true,,4694,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/d42b51fdcf93fe73eae7c01e5659469a,437,0,0
+1622563607738,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-7,text,true,,2988,0,50,50,null,0,0,0
+1622563607335,410,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-43,text,true,,5176,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099,410,1,0,0,0
+1622563607745,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-43,text,true,,2987,0,50,50,null,0,1,0,0,0
+1622563607322,423,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-10,text,true,,4672,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/f9c69a543bcff017702dac82a9292a9f,423,0,0
+1622563607745,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-10,text,true,,2988,0,50,50,null,0,0,0
+1622563607122,625,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-16,text,true,,5243,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033,625,1,0,0,0
+1622563607747,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-16,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607330,417,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-14,text,true,,4692,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/8c948497def526051eceed3dbc8148a7,417,0,0
+1622563607747,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-14,text,true,,2989,0,50,50,null,0,0,0
+1622563607330,426,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-42,text,true,,5269,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002,426,1,0,0,0
+1622563607756,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-42,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607438,326,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-1,text,true,,3358,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/0ef3c1e7e8d21103e4bb2f6878aaf32f/payments,325,1,0,0,0
+1622563607764,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-1,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607325,442,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-6,text,true,,4672,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/f9c69a543bcff017702dac82a9292a9f,442,0,0
+1622563607767,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-6,text,true,,2988,0,50,50,null,0,0,0
+1622563607455,313,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-36,text,true,,5315,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004211,312,1,0,0,0
+1622563607767,1,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-36,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607446,322,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-38,text,true,,4766,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ace63be33fec81839c223532029f51d9,322,0,0
+1622563607768,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-38,text,true,,2989,0,50,50,null,0,0,0
+1622563607452,316,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-27,text,true,,4765,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ace63be33fec81839c223532029f51d9,316,0,0
+1622563607768,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-27,text,true,,2988,0,50,50,null,0,0,0
+1622563607442,326,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-33,text,true,,4755,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/b06d7511f83f209bac4261feb3d1c5f6,326,0,0
+1622563607768,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-33,text,true,,2989,0,50,50,null,0,0,0
+1622563607324,444,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-13,text,true,,4759,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/67e5ae8f3baa711f7e9f4cea407c4d3e,444,0,0
+1622563607768,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-13,text,true,,2989,0,50,50,null,0,0,0
+1622563607335,433,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-48,text,true,,5251,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324,433,1,0,0,0
+1622563607768,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-48,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607324,445,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-32,text,true,,4755,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/b06d7511f83f209bac4261feb3d1c5f6,445,0,0
+1622563607769,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-32,text,true,,2989,0,50,50,null,0,0,0
+1622563607450,321,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-15,text,true,,5178,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099,321,1,0,0,0
+1622563607771,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-15,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607325,563,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-12,text,true,,4430,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/84f19888c9ab24d6a055a88c97f31c82,563,0,0
+1622563607888,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-12,text,true,,2989,0,50,50,null,0,0,0
+1622563607607,283,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-49,text,true,,5310,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283,283,1,0,0,0
+1622563607890,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-49,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607598,297,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-19,text,true,,4657,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/b3ee8135aab3061f3cbe49b078eb48b3,297,0,0
+1622563607895,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-19,text,true,,2989,0,50,50,null,0,0,0
+1622563607589,307,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-35,text,true,,4744,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/022b6d6364a9cdfe97a8aef1477c1403,307,0,0
+1622563607896,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-35,text,true,,2989,0,50,50,null,0,0,0
+1622563607601,295,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-41,text,true,,4729,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/cc460ad9b0b2fdac072f1a194ecf9fba,295,0,0
+1622563607896,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-41,text,true,,2989,0,50,50,null,0,0,0
+1622563607594,303,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-30,text,true,,4732,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/741ea0cf692889e19d55158a494132a4,303,0,0
+1622563607897,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-30,text,true,,2989,0,50,50,null,0,0,0
+1622563607594,306,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-28,text,true,,6536,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/1cf8f1b44455dfdb3c591677fef0feed/payments,306,1,0,0,0
+1622563607900,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-28,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607593,351,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-3,text,true,,3358,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/cbef72ae4d887ee8f16764494aa8de65/payments,351,1,0,0,0
+1622563607944,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-3,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607617,454,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-21,text,true,,5299,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004270,454,1,0,0,0
+1622563608071,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-21,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607605,466,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-20,text,true,,5206,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003576,466,1,0,0,0
+1622563608071,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-20,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607600,473,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-24,text,true,,5202,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172,472,1,0,0,0
+1622563608072,1,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-24,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607620,465,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-50,text,true,,5268,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002,464,1,0,0,0
+1622563608085,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-50,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607608,480,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-18,text,true,,4734,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/597e8ea057cf8e2e171260430fe1b3ee,480,0,0
+1622563608088,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-18,text,true,,2989,0,50,50,null,0,0,0
+1622563607608,480,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-5,text,true,,4656,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/b3ee8135aab3061f3cbe49b078eb48b3,480,0,0
+1622563608088,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-5,text,true,,2988,0,50,50,null,0,0,0
+1622563607649,442,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-25,text,true,,4445,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/74cb1dbe90308e9641b15c884434f9fc,442,0,0
+1622563608091,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-25,text,true,,2989,0,50,50,null,0,0,0
+1622563607604,490,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-29,text,true,,4635,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/eb043be100c6a1d4d8c14cf4d3fa4a09,490,0,0
+1622563608094,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-29,text,true,,2989,0,50,50,null,0,0,0
+1622563607642,452,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-37,text,true,,4741,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/cc460ad9b0b2fdac072f1a194ecf9fba/payments,452,1,0,0,0
+1622563608094,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-37,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607608,487,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-47,text,true,,4395,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/2da1330bba305db17d10378a223c48e6,487,0,0
+1622563608095,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-47,text,true,,2989,0,50,50,null,0,0,0
+1622563607611,484,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-26,text,true,,4387,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/479c3c08c70f54c3463c999fc082e4fe,484,0,0
+1622563608095,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-26,text,true,,2987,0,50,50,null,0,0,0
+1622563607608,487,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-34,text,true,,4443,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/a8a2c515c4d1b9bdfcd1dec178c5e192,487,0,0
+1622563608095,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-34,text,true,,2989,0,50,50,null,0,0,0
+1622563607601,495,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-39,text,true,,4451,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/a8c43fc07cf773b82eeea9d0209fd8a8,495,0,0
+1622563608096,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-39,text,true,,2989,0,50,50,null,0,0,0
+1622563607647,451,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-17,text,true,,5651,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/8b5e9c6c4e54b97f2a066ac680bfef7c/payments,451,1,0,0,0
+1622563608098,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-17,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607607,492,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-22,text,true,,4398,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/9c7039aefc4ff92ea0bb297ecefc9b89,492,0,0
+1622563608099,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-22,text,true,,2989,0,50,50,null,0,0,0
+1622563607616,485,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-45,text,true,,5146,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003513,485,1,0,0,0
+1622563608101,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-45,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607612,491,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-40,text,true,,4692,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/8c948497def526051eceed3dbc8148a7,491,0,0
+1622563608103,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-40,text,true,,2989,0,50,50,null,0,0,0
+1622563607618,486,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-9,text,true,,4762,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/67e5ae8f3baa711f7e9f4cea407c4d3e/payments,486,1,0,0,0
+1622563608104,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-9,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607600,506,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-23,text,true,,5291,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/e8ebdf12e608884a8d4ea4af35b89b46/payments,506,1,0,0,0
+1622563608106,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-23,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607656,505,ClaimsAPI Get Claim Request,200,OK,Claims API Thread Group 1-44,text,true,,5283,1084,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991,505,1,0,0,0
+1622563608161,0,ClaimsAPI Get Claim Request-0,200,OK,Claims API Thread Group 1-44,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607600,566,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-46,text,true,,4731,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ea3d5142917887709235972ce0c666f8,566,0,0
+1622563608166,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-46,text,true,,2989,0,50,50,null,0,0,0
+1622563607648,523,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-8,text,true,,3358,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/07cdecfd7c10c6d58051b8575aa5bfae/payments,523,1,0,0,0
+1622563608171,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-8,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607647,527,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-4,text,true,,10837,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/e8f5538bf2345fd2087144eccd37edd8/payments,527,1,0,0,0
+1622563608174,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-4,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607651,533,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-2,text,true,,10288,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/1d39a7032eae1621deb28de43a879025/payments,532,1,0,0,0
+1622563608183,1,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-2,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607648,539,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-11,text,true,,26602,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/4b7013196c64da54268e1797c73974f9/payments,538,1,0,0,0
+1622563608187,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-11,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607771,482,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-15,text,true,,4405,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ceff4dc8c8fbd917f80badbe5c4ee9aa,482,0,0
+1622563608253,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-15,text,true,,2989,0,50,50,null,0,0,0
+1622563607768,487,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-48,text,true,,4451,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/a8c43fc07cf773b82eeea9d0209fd8a8,487,0,0
+1622563608255,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-48,text,true,,2989,0,50,50,null,0,0,0
+1622563607756,500,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-42,text,true,,4742,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/14e365a5d3c5321ebe147fe3443fcec8,500,0,0
+1622563608256,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-42,text,true,,2989,0,50,50,null,0,0,0
+1622563607764,492,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-1,text,true,,3546,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002489/financials-summary,492,1,0,0,0
+1622563608256,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-1,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607768,488,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-36,text,true,,4687,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/1e204ed9ddfa3a82c78512855f7abcde,488,0,0
+1622563608256,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-36,text,true,,2989,0,50,50,null,0,0,0
+1622563607745,512,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-43,text,true,,4405,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ceff4dc8c8fbd917f80badbe5c4ee9aa,512,0,0
+1622563608257,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-43,text,true,,2989,0,50,50,null,0,0,0
+1622563607747,520,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-16,text,true,,4398,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/9c7039aefc4ff92ea0bb297ecefc9b89,520,0,0
+1622563608267,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-16,text,true,,2989,0,50,50,null,0,0,0
+1622563607901,384,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-28,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003660/financials-summary,384,1,0,0,0
+1622563608285,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-28,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607768,526,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-38,text,true,,5650,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ace63be33fec81839c223532029f51d9/payments,526,1,0,0,0
+1622563608294,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-38,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607650,644,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-31,text,true,,4329,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/14e365a5d3c5321ebe147fe3443fcec8/payments,644,1,0,0,0
+1622563608294,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-31,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607896,399,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-35,text,true,,6614,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/022b6d6364a9cdfe97a8aef1477c1403/payments,399,1,0,0,0
+1622563608295,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-35,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607896,399,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-41,text,true,,4741,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/cc460ad9b0b2fdac072f1a194ecf9fba/payments,399,1,0,0,0
+1622563608295,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-41,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607745,550,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-10,text,true,,10793,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/f9c69a543bcff017702dac82a9292a9f/payments,550,1,0,0,0
+1622563608295,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-10,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607895,400,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-19,text,true,,10364,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/b3ee8135aab3061f3cbe49b078eb48b3/payments,400,1,0,0,0
+1622563608295,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-19,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607769,527,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-32,text,true,,4297,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/b06d7511f83f209bac4261feb3d1c5f6/payments,527,1,0,0,0
+1622563608296,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-32,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607738,561,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-7,text,true,,7918,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/d42b51fdcf93fe73eae7c01e5659469a/payments,561,1,0,0,0
+1622563608299,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-7,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607768,534,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-33,text,true,,4297,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/b06d7511f83f209bac4261feb3d1c5f6/payments,534,1,0,0,0
+1622563608302,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-33,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607768,535,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-13,text,true,,4763,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/67e5ae8f3baa711f7e9f4cea407c4d3e/payments,535,1,0,0,0
+1622563608303,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-13,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607944,361,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-3,text,true,,3542,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00001968/financials-summary,361,1,0,0,0
+1622563608305,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-3,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607888,417,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-12,text,true,,4749,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/84f19888c9ab24d6a055a88c97f31c82/payments,417,1,0,0,0
+1622563608305,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-12,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607768,539,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-6,text,true,,10785,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/f9c69a543bcff017702dac82a9292a9f/payments,539,1,0,0,0
+1622563608307,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-6,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563607768,544,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-27,text,true,,5650,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ace63be33fec81839c223532029f51d9/payments,544,1,0,0,0
+1622563608312,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-27,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563607890,428,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-49,text,true,,4755,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/b06d7511f83f209bac4261feb3d1c5f6,428,0,0
+1622563608318,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-49,text,true,,2989,0,50,50,null,0,0,0
+1622563607747,572,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-14,text,true,,27319,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/8c948497def526051eceed3dbc8148a7/payments,572,1,0,0,0
+1622563608319,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-14,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608071,287,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-20,text,true,,4453,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/06b0bcdac07362f5080251b1d95dc173,287,0,0
+1622563608358,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-20,text,true,,2989,0,50,50,null,0,0,0
+1622563608085,274,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-50,text,true,,4742,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/14e365a5d3c5321ebe147fe3443fcec8,274,0,0
+1622563608359,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-50,text,true,,2989,0,50,50,null,0,0,0
+1622563608071,289,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-21,text,true,,4669,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/1c3d77ab3d64bba88db0a6d63abbad6a,289,0,0
+1622563608360,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-21,text,true,,2989,0,50,50,null,0,0,0
+1622563608073,290,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-24,text,true,,4731,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ea3d5142917887709235972ce0c666f8,290,0,0
+1622563608363,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-24,text,true,,2989,0,50,50,null,0,0,0
+1622563607897,480,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-30,text,true,,27207,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/741ea0cf692889e19d55158a494132a4/payments,480,1,0,0,0
+1622563608377,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-30,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608098,304,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-17,text,true,,3497,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004403/financials-summary,304,1,0,0,0
+1622563608402,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-17,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608094,312,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-37,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253/financials-summary,312,1,0,0,0
+1622563608406,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-37,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608101,308,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-45,text,true,,4685,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/5637936d35930caed988bcf44eeac186,308,0,0
+1622563608409,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-45,text,true,,2988,0,50,50,null,0,0,0
+1622563608104,305,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-9,text,true,,3519,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055/financials-summary,305,1,0,0,0
+1622563608409,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-9,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608096,322,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-34,text,true,,3359,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/a8a2c515c4d1b9bdfcd1dec178c5e192/payments,322,1,0,0,0
+1622563608418,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-34,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608095,325,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-26,text,true,,3359,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/479c3c08c70f54c3463c999fc082e4fe/payments,325,1,0,0,0
+1622563608420,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-26,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608091,329,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-25,text,true,,4736,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/74cb1dbe90308e9641b15c884434f9fc/payments,329,1,0,0,0
+1622563608420,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-25,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608099,322,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-22,text,true,,3359,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/9c7039aefc4ff92ea0bb297ecefc9b89/payments,322,1,0,0,0
+1622563608421,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-22,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608094,329,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-29,text,true,,9363,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/eb043be100c6a1d4d8c14cf4d3fa4a09/payments,329,1,0,0,0
+1622563608423,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-29,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608095,331,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-47,text,true,,3358,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/2da1330bba305db17d10378a223c48e6/payments,331,1,0,0,0
+1622563608426,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-47,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608088,343,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-18,text,true,,26948,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/597e8ea057cf8e2e171260430fe1b3ee/payments,343,1,0,0,0
+1622563608431,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-18,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608096,341,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-39,text,true,,4759,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/a8c43fc07cf773b82eeea9d0209fd8a8/payments,341,1,0,0,0
+1622563608437,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-39,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608088,352,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-5,text,true,,10363,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/b3ee8135aab3061f3cbe49b078eb48b3/payments,352,1,0,0,0
+1622563608440,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-5,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608187,277,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-11,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004693/financials-summary,277,1,0,0,0
+1622563608464,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-11,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608161,304,ClaimsAPI Get Claimant Request,200,OK,Claims API Thread Group 1-44,text,true,,4692,1108,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/8c948497def526051eceed3dbc8148a7,304,0,0
+1622563608465,0,ClaimsAPI Get Claimant Request-0,200,OK,Claims API Thread Group 1-44,text,true,,2989,0,50,50,null,0,0,0
+1622563608184,282,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-2,text,true,,3496,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005131/financials-summary,282,1,0,0,0
+1622563608466,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-2,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608171,297,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-8,text,true,,3523,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742/financials-summary,297,1,0,0,0
+1622563608468,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-8,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608106,362,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-23,text,true,,3506,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003034/financials-summary,362,1,0,0,0
+1622563608468,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-23,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608166,314,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-46,text,true,,13114,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ea3d5142917887709235972ce0c666f8/payments,314,1,0,0,0
+1622563608480,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-46,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608103,379,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-40,text,true,,27319,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/8c948497def526051eceed3dbc8148a7/payments,379,1,0,0,0
+1622563608482,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-40,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608256,291,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-42,text,true,,4330,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/14e365a5d3c5321ebe147fe3443fcec8/payments,291,1,0,0,0
+1622563608547,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-42,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608253,294,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-15,text,true,,3359,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ceff4dc8c8fbd917f80badbe5c4ee9aa/payments,294,1,0,0,0
+1622563608547,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-15,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608256,292,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-1,text,true,,3968,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002489/vehicles,292,1,0,0,0
+1622563608548,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-1,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608257,294,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-43,text,true,,3358,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ceff4dc8c8fbd917f80badbe5c4ee9aa/payments,294,1,0,0,0
+1622563608551,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-43,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608255,297,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-48,text,true,,4759,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/a8c43fc07cf773b82eeea9d0209fd8a8/payments,297,1,0,0,0
+1622563608552,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-48,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608256,309,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-36,text,true,,16677,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/1e204ed9ddfa3a82c78512855f7abcde/payments,309,1,0,0,0
+1622563608565,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-36,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608319,458,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-14,text,true,,3537,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/financials-summary,458,1,0,0,0
+1622563608777,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-14,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608295,484,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-41,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253/financials-summary,484,1,0,0,0
+1622563608779,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-41,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608377,402,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-30,text,true,,3530,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00005435/financials-summary,402,1,0,0,0
+1622563608779,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-30,text,true,,2986,0,50,50,null,0,1,0,0,0
+1622563608299,483,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-7,text,true,,3534,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00002319/financials-summary,483,1,0,0,0
+1622563608782,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-7,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608295,487,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-19,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341/financials-summary,487,1,0,0,0
+1622563608782,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-19,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608295,487,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-10,text,true,,3487,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505/financials-summary,487,1,0,0,0
+1622563608782,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-10,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608303,480,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-13,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055/financials-summary,479,1,0,0,0
+1622563608782,1,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-13,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608294,489,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-38,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165/financials-summary,489,1,0,0,0
+1622563608783,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-38,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608318,465,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-49,text,true,,4297,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/b06d7511f83f209bac4261feb3d1c5f6/payments,465,1,0,0,0
+1622563608783,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-49,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608295,489,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-35,text,true,,3536,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005185/financials-summary,489,1,0,0,0
+1622563608784,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-35,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608296,488,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-32,text,true,,3533,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/financials-summary,488,1,0,0,0
+1622563608784,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-32,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608267,518,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-16,text,true,,3359,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/9c7039aefc4ff92ea0bb297ecefc9b89/payments,518,1,0,0,0
+1622563608785,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-16,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608307,479,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-6,text,true,,3486,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505/financials-summary,479,1,0,0,0
+1622563608786,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-6,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608174,617,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-4,text,true,,3496,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00010885/financials-summary,617,1,0,0,0
+1622563608791,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-4,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608303,489,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-33,text,true,,3533,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/financials-summary,489,1,0,0,0
+1622563608792,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-33,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608294,498,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-31,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/financials-summary,498,1,0,0,0
+1622563608792,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-31,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608305,488,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-12,text,true,,3524,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742/financials-summary,488,1,0,0,0
+1622563608793,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-12,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608363,432,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-24,text,true,,13114,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/ea3d5142917887709235972ce0c666f8/payments,432,1,0,0,0
+1622563608795,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-24,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608305,491,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-3,text,true,,3358,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00001968/vehicles,491,1,0,0,0
+1622563608796,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-3,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608359,438,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-50,text,true,,4330,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/14e365a5d3c5321ebe147fe3443fcec8/payments,438,1,0,0,0
+1622563608797,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-50,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608312,485,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-27,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165/financials-summary,485,1,0,0,0
+1622563608797,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-27,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608286,516,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-28,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003660/vehicles,516,1,0,0,0
+1622563608802,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-28,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608358,498,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-20,text,true,,4745,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/06b0bcdac07362f5080251b1d95dc173/payments,498,1,0,0,0
+1622563608856,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-20,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608548,324,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-1,text,true,,4111,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002489/Adjusters,324,1,0,0,0
+1622563608872,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-1,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608406,468,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-37,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253/vehicles,468,1,0,0,0
+1622563608874,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-37,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608418,456,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-34,text,true,,3487,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002662/financials-summary,456,1,0,0,0
+1622563608874,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-34,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608423,451,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-29,text,true,,3487,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003996/financials-summary,451,1,0,0,0
+1622563608874,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-29,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608421,454,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-22,text,true,,3524,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033/financials-summary,454,1,0,0,0
+1622563608875,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-22,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608437,438,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-39,text,true,,3487,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324/financials-summary,438,1,0,0,0
+1622563608875,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-39,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608420,456,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-26,text,true,,3490,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003589/financials-summary,456,1,0,0,0
+1622563608876,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-26,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608440,436,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-5,text,true,,3519,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341/financials-summary,436,1,0,0,0
+1622563608876,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-5,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608426,451,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-47,text,true,,3487,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001892/financials-summary,451,1,0,0,0
+1622563608877,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-47,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608547,354,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-15,text,true,,3494,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099/financials-summary,354,1,0,0,0
+1622563608901,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-15,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608402,499,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-17,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004403/vehicles,499,1,0,0,0
+1622563608901,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-17,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608551,351,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-43,text,true,,3493,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099/financials-summary,351,1,0,0,0
+1622563608902,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-43,text,true,,2987,0,50,50,null,0,1,0,0,0
+1622563608421,481,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-25,text,true,,3501,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003259/financials-summary,481,1,0,0,0
+1622563608902,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-25,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608409,493,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-45,text,true,,6636,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/5637936d35930caed988bcf44eeac186/payments,493,1,0,0,0
+1622563608902,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-45,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608565,338,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-36,text,true,,3499,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004211/financials-summary,338,1,0,0,0
+1622563608903,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-36,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608409,494,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-9,text,true,,3358,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055/vehicles,494,1,0,0,0
+1622563608903,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-9,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608464,439,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-11,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004693/vehicles,439,1,0,0,0
+1622563608903,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-11,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608482,423,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-40,text,true,,3537,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/financials-summary,423,1,0,0,0
+1622563608905,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-40,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608552,353,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-48,text,true,,3487,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324/financials-summary,353,1,0,0,0
+1622563608905,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-48,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608431,474,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-18,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001016/financials-summary,474,1,0,0,0
+1622563608905,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-18,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608468,441,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-8,text,true,,3963,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742/vehicles,441,1,0,0,0
+1622563608909,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-8,text,true,,2987,0,50,50,null,0,1,0,0,0
+1622563608480,430,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-46,text,true,,3527,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172/financials-summary,430,1,0,0,0
+1622563608910,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-46,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608547,366,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-42,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/financials-summary,366,1,0,0,0
+1622563608913,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-42,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608466,453,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-2,text,true,,3358,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005131/vehicles,453,1,0,0,0
+1622563608919,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-2,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608468,451,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-23,text,true,,3358,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003034/vehicles,451,1,0,0,0
+1622563608919,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-23,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608465,464,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-44,text,true,,27319,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/8c948497def526051eceed3dbc8148a7/payments,464,1,0,0,0
+1622563608929,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-44,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608785,282,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-16,text,true,,3524,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033/financials-summary,282,1,0,0,0
+1622563609067,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-16,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608792,298,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-33,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/vehicles,297,1,0,0,0
+1622563609090,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-33,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608779,316,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-41,text,true,,3358,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253/vehicles,316,1,0,0,0
+1622563609095,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-41,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608783,312,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-49,text,true,,3533,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/financials-summary,312,1,0,0,0
+1622563609095,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-49,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608783,312,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-13,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055/vehicles,312,1,0,0,0
+1622563609095,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-13,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608784,311,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-32,text,true,,3358,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/vehicles,311,1,0,0,0
+1622563609095,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-32,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608786,310,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-6,text,true,,3358,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505/vehicles,309,1,0,0,0
+1622563609095,1,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-6,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608783,314,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-38,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165/vehicles,314,1,0,0,0
+1622563609097,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-38,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608792,307,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-4,text,true,,3358,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00010885/vehicles,307,1,0,0,0
+1622563609099,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-4,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608782,318,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-7,text,true,,3357,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00002319/vehicles,318,1,0,0,0
+1622563609100,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-7,text,true,,2987,0,50,50,null,0,1,0,0,0
+1622563608779,323,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-30,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00005435/vehicles,323,1,0,0,0
+1622563609102,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-30,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608777,327,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-14,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/vehicles,327,1,0,0,0
+1622563609104,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-14,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608797,439,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-50,text,true,,3520,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/financials-summary,439,1,0,0,0
+1622563609236,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-50,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608797,447,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-3,text,true,,3915,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00001968/Adjusters,447,1,0,0,0
+1622563609244,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-3,text,true,,2987,0,50,50,null,0,1,0,0,0
+1622563608802,444,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-28,text,true,,3926,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003660/Adjusters,444,1,0,0,0
+1622563609246,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-28,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608876,374,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-26,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003589/vehicles,374,1,0,0,0
+1622563609250,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-26,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608856,395,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-20,text,true,,3505,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003576/financials-summary,395,1,0,0,0
+1622563609251,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-20,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608874,378,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-34,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002662/vehicles,378,1,0,0,0
+1622563609252,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-34,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608797,458,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-27,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165/vehicles,458,1,0,0,0
+1622563609255,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-27,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608795,462,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-24,text,true,,3527,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172/financials-summary,462,1,0,0,0
+1622563609257,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-24,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608793,465,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-31,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/vehicles,465,1,0,0,0
+1622563609258,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-31,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608782,476,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-19,text,true,,3358,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341/vehicles,476,1,0,0,0
+1622563609258,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-19,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608360,911,ClaimsAPI Get Payments Request,200,OK,Claims API Thread Group 1-21,text,true,,6621,1117,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claimants/1c3d77ab3d64bba88db0a6d63abbad6a/payments,911,1,0,0,0
+1622563609271,0,ClaimsAPI Get Payments Request-0,200,OK,Claims API Thread Group 1-21,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608903,416,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-9,text,true,,3924,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055/Adjusters,416,1,0,0,0
+1622563609319,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-9,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608905,418,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-40,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/vehicles,418,1,0,0,0
+1622563609323,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-40,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608902,421,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-45,text,true,,3533,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003513/financials-summary,421,1,0,0,0
+1622563609323,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-45,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608876,471,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-5,text,true,,3357,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341/vehicles,471,1,0,0,0
+1622563609347,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-5,text,true,,2987,0,50,50,null,0,1,0,0,0
+1622563608905,442,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-48,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324/vehicles,442,1,0,0,0
+1622563609347,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-48,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608902,455,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-25,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003259/vehicles,455,1,0,0,0
+1622563609357,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-25,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608901,456,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-15,text,true,,3359,1093,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099/vehicles,456,1,0,0,0
+1622563609357,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-15,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608903,455,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-11,text,true,,3917,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004693/Adjusters,455,1,0,0,0
+1622563609358,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-11,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608929,430,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-44,text,true,,3537,1103,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/financials-summary,430,1,0,0,0
+1622563609359,0,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-44,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608901,458,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-17,text,true,,3900,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004403/Adjusters,458,1,0,0,0
+1622563609359,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-17,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608909,461,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-8,text,true,,4091,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742/Adjusters,461,1,0,0,0
+1622563609370,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-8,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608920,459,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-23,text,true,,3915,1094,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003034/Adjusters,459,1,0,0,0
+1622563609379,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-23,text,true,,2989,0,50,50,null,0,1,0,0,0
+1622563608872,507,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-1,text,true,,4083,1099,50,50,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002489/lossfinancials,507,1,0,0,0
+1622563609379,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-1,text,true,,2988,0,50,50,null,0,1,0,0,0
+1622563608903,477,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-36,text,true,,3359,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004211/vehicles,477,1,0,0,0
+1622563609380,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-36,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563608902,478,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-43,text,true,,3359,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099/vehicles,478,1,0,0,0
+1622563609380,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-43,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563608919,463,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-2,text,true,,3919,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005131/Adjusters,463,1,0,0,0
+1622563609382,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-2,text,true,,2988,0,49,49,null,0,1,0,0,0
+1622563608905,477,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-18,text,true,,3358,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001016/vehicles,477,1,0,0,0
+1622563609382,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-18,text,true,,2988,0,49,49,null,0,1,0,0,0
+1622563608910,472,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-46,text,true,,3359,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172/vehicles,472,1,0,0,0
+1622563609382,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-46,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563608874,508,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-37,text,true,,3922,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253/Adjusters,508,1,0,0,0
+1622563609382,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-37,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563608876,507,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-39,text,true,,3359,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324/vehicles,507,1,0,0,0
+1622563609383,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-39,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563608874,517,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-29,text,true,,3359,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003996/vehicles,517,1,0,0,0
+1622563609391,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-29,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563608913,478,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-42,text,true,,3359,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/vehicles,478,1,0,0,0
+1622563609391,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-42,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609095,324,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-41,text,true,,3922,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253/Adjusters,324,1,0,0,0
+1622563609419,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-41,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563608878,542,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-47,text,true,,3359,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001892/vehicles,542,1,0,0,0
+1622563609420,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-47,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609099,323,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-4,text,true,,3923,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00010885/Adjusters,323,1,0,0,0
+1622563609422,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-4,text,true,,2987,0,49,49,null,0,1,0,0,0
+1622563609068,360,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-16,text,true,,3973,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033/vehicles,360,1,0,0,0
+1622563609428,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-16,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563608875,554,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-22,text,true,,3973,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033/vehicles,554,1,0,0,0
+1622563609429,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-22,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609090,346,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-33,text,true,,3927,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/Adjusters,346,1,0,0,0
+1622563609436,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-33,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563608793,650,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-12,text,true,,3965,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742/vehicles,650,1,0,0,0
+1622563609443,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-12,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609095,348,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-49,text,true,,3359,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/vehicles,348,1,0,0,0
+1622563609443,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-49,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609104,340,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-14,text,true,,3919,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/Adjusters,340,1,0,0,0
+1622563609444,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-14,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609097,347,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-38,text,true,,3917,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165/Adjusters,347,1,0,0,0
+1622563609444,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-38,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609102,344,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-30,text,true,,3922,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00005435/Adjusters,343,1,0,0,0
+1622563609445,1,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-30,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609095,351,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-32,text,true,,3927,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/Adjusters,351,1,0,0,0
+1622563609446,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-32,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609096,351,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-6,text,true,,3921,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505/Adjusters,351,1,0,0,0
+1622563609447,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-6,text,true,,2988,0,49,49,null,0,1,0,0,0
+1622563609100,347,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-7,text,true,,3914,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00002319/Adjusters,347,1,0,0,0
+1622563609447,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-7,text,true,,2988,0,49,49,null,0,1,0,0,0
+1622563609236,211,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-50,text,true,,3359,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/vehicles,211,1,0,0,0
+1622563609447,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-50,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609095,357,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-13,text,true,,3923,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055/Adjusters,357,1,0,0,0
+1622563609452,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-13,text,true,,2987,0,49,49,null,0,1,0,0,0
+1622563609258,280,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-31,text,true,,3925,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/Adjusters,280,1,0,0,0
+1622563609538,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-31,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609251,298,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-20,text,true,,3359,1093,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003576/vehicles,298,1,0,0,0
+1622563609549,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-20,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609271,279,ClaimsAPI Get Financials Request,200,OK,Claims API Thread Group 1-21,text,true,,3497,1103,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004270/financials-summary,278,1,0,0,0
+1622563609549,1,ClaimsAPI Get Financials Request-0,200,OK,Claims API Thread Group 1-21,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609255,295,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-27,text,true,,3917,1094,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165/Adjusters,295,1,0,0,0
+1622563609550,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-27,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609246,306,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-28,text,true,,4082,1099,49,49,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003660/lossfinancials,306,1,0,0,0
+1622563609552,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-28,text,true,,2989,0,49,49,null,0,1,0,0,0
+1622563609257,297,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-24,text,true,,3359,1093,48,48,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172/vehicles,297,1,0,0,0
+1622563609554,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-24,text,true,,2989,0,48,48,null,0,1,0,0,0
+1622563609246,308,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-3,text,true,,3980,1099,48,48,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00001968/lossfinancials,308,1,0,0,0
+1622563609554,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-3,text,true,,2988,0,48,48,null,0,1,0,0,0
+1622563609252,303,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-34,text,true,,3915,1094,47,47,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002662/Adjusters,303,1,0,0,0
+1622563609555,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-34,text,true,,2989,0,47,47,null,0,1,0,0,0
+1622563609258,299,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-19,text,true,,3922,1094,47,47,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341/Adjusters,299,1,0,0,0
+1622563609557,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-19,text,true,,2989,0,47,47,null,0,1,0,0,0
+1622563609250,309,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-26,text,true,,3916,1094,47,47,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003589/Adjusters,309,1,0,0,0
+1622563609559,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-26,text,true,,2989,0,47,47,null,0,1,0,0,0
+1622563609358,338,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-11,text,true,,4105,1099,47,47,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004693/lossfinancials,338,1,0,0,0
+1622563609696,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-11,text,true,,2989,0,47,47,null,0,1,0,0,0
+1622563609324,390,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-40,text,true,,3918,1094,46,46,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/Adjusters,390,1,0,0,0
+1622563609714,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-40,text,true,,2988,0,46,46,null,0,1,0,0,0
+1622563609347,371,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-5,text,true,,3921,1094,46,46,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341/Adjusters,371,1,0,0,0
+1622563609718,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-5,text,true,,2988,0,46,46,null,0,1,0,0,0
+1622563609360,367,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-17,text,true,,3977,1099,46,46,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004403/lossfinancials,367,1,0,0,0
+1622563609727,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-17,text,true,,2989,0,46,46,null,0,1,0,0,0
+1622563609319,408,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-9,text,true,,4097,1099,45,45,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055/lossfinancials,408,1,0,0,0
+1622563609727,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-9,text,true,,2988,0,45,45,null,0,1,0,0,0
+1622563608782,946,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-10,text,true,,3359,1093,44,44,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505/vehicles,946,1,0,0,0
+1622563609728,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-10,text,true,,2989,0,44,44,null,0,1,0,0,0
+1622563609324,404,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-45,text,true,,3359,1093,44,44,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003513/vehicles,404,1,0,0,0
+1622563609728,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-45,text,true,,2989,0,44,44,null,0,1,0,0,0
+1622563609357,371,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-25,text,true,,3919,1094,44,44,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003259/Adjusters,371,1,0,0,0
+1622563609728,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-25,text,true,,2989,0,44,44,null,0,1,0,0,0
+1622563609357,371,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-15,text,true,,3914,1094,44,44,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099/Adjusters,371,1,0,0,0
+1622563609728,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-15,text,true,,2988,0,44,44,null,0,1,0,0,0
+1622563609359,370,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-44,text,true,,3359,1093,44,44,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/vehicles,370,1,0,0,0
+1622563609729,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-44,text,true,,2989,0,44,44,null,0,1,0,0,0
+1622563608784,945,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-35,text,true,,3359,1093,44,44,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005185/vehicles,945,1,0,0,0
+1622563609729,0,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-35,text,true,,2989,0,44,44,null,0,1,0,0,0
+1622563609347,383,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-48,text,true,,3914,1094,44,44,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324/Adjusters,383,1,0,0,0
+1622563609730,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-48,text,true,,2988,0,44,44,null,0,1,0,0,0
+1622563609422,468,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-4,text,true,,3976,1099,44,44,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00010885/lossfinancials,468,1,0,0,0
+1622563609890,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-4,text,true,,2988,0,44,44,null,0,1,0,0,0
+1622563609382,508,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-2,text,true,,3975,1099,44,44,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005131/lossfinancials,508,1,0,0,0
+1622563609890,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-2,text,true,,2987,0,43,43,null,0,1,0,0,0
+1622563609370,522,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-8,text,true,,4085,1099,42,42,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742/lossfinancials,522,1,0,0,0
+1622563609892,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-8,text,true,,2988,0,42,42,null,0,1,0,0,0
+1622563609382,515,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-37,text,true,,4078,1099,41,41,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253/lossfinancials,515,1,0,0,0
+1622563609897,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-37,text,true,,2989,0,41,41,null,0,1,0,0,0
+1622563609383,514,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-39,text,true,,3915,1094,41,41,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324/Adjusters,514,1,0,0,0
+1622563609897,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-39,text,true,,2989,0,41,41,null,0,1,0,0,0
+1622563609381,517,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-43,text,true,,3915,1094,40,40,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099/Adjusters,516,1,0,0,0
+1622563609897,1,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-43,text,true,,2989,0,40,40,null,0,1,0,0,0
+1622563609379,518,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-23,text,true,,3981,1099,40,40,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003034/lossfinancials,518,1,0,0,0
+1622563609897,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-23,text,true,,2989,0,40,40,null,0,1,0,0,0
+1622563609391,507,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-42,text,true,,3925,1094,40,40,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/Adjusters,507,1,0,0,0
+1622563609898,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-42,text,true,,2989,0,40,40,null,0,1,0,0,0
+1622563609419,509,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-41,text,true,,4078,1099,39,39,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00004253/lossfinancials,509,1,0,0,0
+1622563609928,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-41,text,true,,2989,0,39,39,null,0,1,0,0,0
+1622563609382,561,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-46,text,true,,3921,1094,38,38,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172/Adjusters,561,1,0,0,0
+1622563609943,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-46,text,true,,2989,0,38,38,null,0,1,0,0,0
+1622563609380,584,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-36,text,true,,3922,1094,38,38,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004211/Adjusters,584,1,0,0,0
+1622563609964,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-36,text,true,,2989,0,38,38,null,0,1,0,0,0
+1622563609436,532,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-33,text,true,,4096,1099,38,38,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/lossfinancials,532,1,0,0,0
+1622563609968,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-33,text,true,,2989,0,38,38,null,0,1,0,0,0
+1622563609447,521,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-7,text,true,,4097,1099,38,38,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00002319/lossfinancials,521,1,0,0,0
+1622563609968,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-7,text,true,,2988,0,38,38,null,0,1,0,0,0
+1622563609555,413,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-34,text,true,,3973,1099,36,36,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002662/lossfinancials,413,1,0,0,0
+1622563609968,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-34,text,true,,2989,0,36,36,null,0,1,0,0,0
+1622563609444,525,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-38,text,true,,4084,1099,35,35,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165/lossfinancials,525,1,0,0,0
+1622563609969,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-38,text,true,,2989,0,35,35,null,0,1,0,0,0
+1622563609443,526,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-49,text,true,,3927,1094,34,34,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/Adjusters,526,1,0,0,0
+1622563609969,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-49,text,true,,2989,0,34,34,null,0,1,0,0,0
+1622563609428,550,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-16,text,true,,4090,1094,34,34,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033/Adjusters,550,1,0,0,0
+1622563609978,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-16,text,true,,2989,0,34,34,null,0,1,0,0,0
+1622563609382,599,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-18,text,true,,3920,1094,34,34,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001016/Adjusters,599,1,0,0,0
+1622563609981,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-18,text,true,,2989,0,34,34,null,0,1,0,0,0
+1622563609391,590,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-29,text,true,,3925,1094,34,34,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003996/Adjusters,590,1,0,0,0
+1622563609981,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-29,text,true,,2989,0,34,34,null,0,1,0,0,0
+1622563609538,443,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-31,text,true,,4072,1099,34,34,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/lossfinancials,443,1,0,0,0
+1622563609981,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-31,text,true,,2989,0,34,34,null,0,1,0,0,0
+1622563609549,437,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-20,text,true,,3915,1094,33,33,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003576/Adjusters,432,1,0,0,0
+1622563609986,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-20,text,true,,2989,0,33,33,null,0,1,0,0,0
+1622563609447,549,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-6,text,true,,3978,1099,33,33,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505/lossfinancials,549,1,0,0,0
+1622563609996,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-6,text,true,,2988,0,33,33,null,0,1,0,0,0
+1622563609550,446,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-27,text,true,,4084,1099,32,32,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003165/lossfinancials,446,1,0,0,0
+1622563609996,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-27,text,true,,2989,0,32,32,null,0,1,0,0,0
+1622563609559,440,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-26,text,true,,3973,1099,31,31,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003589/lossfinancials,440,1,0,0,0
+1622563609999,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-26,text,true,,2989,0,31,31,null,0,1,0,0,0
+1622563609446,566,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-30,text,true,,4098,1099,30,30,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00005435/lossfinancials,566,1,0,0,0
+1622563610012,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-30,text,true,,2989,0,30,30,null,0,1,0,0,0
+1622563609452,565,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-13,text,true,,4098,1099,29,29,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001055/lossfinancials,565,1,0,0,0
+1622563610017,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-13,text,true,,2989,0,29,29,null,0,1,0,0,0
+1622563609447,570,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-50,text,true,,3925,1094,29,29,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/Adjusters,570,1,0,0,0
+1622563610017,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-50,text,true,,2989,0,29,29,null,0,1,0,0,0
+1622563609446,572,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-32,text,true,,4095,1099,28,28,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/lossfinancials,572,1,0,0,0
+1622563610018,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-32,text,true,,2988,0,28,28,null,0,1,0,0,0
+1622563609550,469,ClaimsAPI Get Vehicles Request,200,OK,Claims API Thread Group 1-21,text,true,,3359,1093,27,27,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004270/vehicles,468,1,0,0,0
+1622563610018,1,ClaimsAPI Get Vehicles Request-0,200,OK,Claims API Thread Group 1-21,text,true,,2989,0,27,27,null,0,1,0,0,0
+1622563609443,576,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-12,text,true,,4092,1094,27,27,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742/Adjusters,576,1,0,0,0
+1622563610019,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-12,text,true,,2989,0,27,27,null,0,1,0,0,0
+1622563609714,306,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-40,text,true,,4107,1099,27,27,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/lossfinancials,306,1,0,0,0
+1622563610020,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-40,text,true,,2988,0,27,27,null,0,1,0,0,0
+1622563609444,576,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-14,text,true,,4108,1099,26,26,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/lossfinancials,576,1,0,0,0
+1622563610020,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-14,text,true,,2989,0,26,26,null,0,1,0,0,0
+1622563609728,292,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-45,text,true,,3925,1094,26,26,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003513/Adjusters,292,1,0,0,0
+1622563610020,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-45,text,true,,2989,0,26,26,null,0,1,0,0,0
+1622563609718,302,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-5,text,true,,4095,1099,25,25,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341/lossfinancials,302,1,0,0,0
+1622563610020,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-5,text,true,,2988,0,25,25,null,0,1,0,0,0
+1622563609420,602,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-47,text,true,,3915,1094,24,24,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001892/Adjusters,602,1,0,0,0
+1622563610022,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-47,text,true,,2989,0,24,24,null,0,1,0,0,0
+1622563609728,297,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-25,text,true,,3977,1099,24,24,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003259/lossfinancials,297,1,0,0,0
+1622563610025,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-25,text,true,,2989,0,24,24,null,0,1,0,0,0
+1622563609729,296,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-44,text,true,,3919,1094,23,23,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/Adjusters,296,1,0,0,0
+1622563610025,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-44,text,true,,2989,0,23,23,null,0,1,0,0,0
+1622563609429,597,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-22,text,true,,4090,1094,23,23,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033/Adjusters,597,1,0,0,0
+1622563610026,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-22,text,true,,2989,0,23,23,null,0,1,0,0,0
+1622563609730,299,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-48,text,true,,3981,1099,23,23,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324/lossfinancials,299,1,0,0,0
+1622563610029,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-48,text,true,,2989,0,23,23,null,0,1,0,0,0
+1622563609554,475,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-24,text,true,,3921,1094,23,23,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172/Adjusters,475,1,0,0,0
+1622563610029,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-24,text,true,,2989,0,23,23,null,0,1,0,0,0
+1622563609557,474,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-19,text,true,,4096,1099,22,22,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003341/lossfinancials,473,1,0,0,0
+1622563610030,1,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-19,text,true,,2989,0,22,22,null,0,1,0,0,0
+1622563609728,303,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-10,text,true,,3922,1094,21,21,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505/Adjusters,303,1,0,0,0
+1622563610031,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-10,text,true,,2989,0,21,21,null,0,1,0,0,0
+1622563609729,313,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-35,text,true,,3925,1094,21,21,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005185/Adjusters,313,1,0,0,0
+1622563610042,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-35,text,true,,2989,0,21,21,null,0,1,0,0,0
+1622563609728,316,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-15,text,true,,3974,1099,21,21,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099/lossfinancials,316,1,0,0,0
+1622563610044,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-15,text,true,,2988,0,21,21,null,0,1,0,0,0
+1622563609898,173,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-43,text,true,,3975,1099,20,20,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001099/lossfinancials,173,1,0,0,0
+1622563610071,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-43,text,true,,2989,0,20,20,null,0,1,0,0,0
+1622563609898,185,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-42,text,true,,4072,1099,19,19,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/lossfinancials,185,1,0,0,0
+1622563610083,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-42,text,true,,2989,0,19,19,null,0,1,0,0,0
+1622563609897,189,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-39,text,true,,3981,1099,18,18,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002324/lossfinancials,189,1,0,0,0
+1622563610086,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-39,text,true,,2989,0,18,18,null,0,1,0,0,0
+1622563609943,167,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-46,text,true,,4084,1099,17,17,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172/lossfinancials,167,1,0,0,0
+1622563610110,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-46,text,true,,2989,0,17,17,null,0,1,0,0,0
+1622563609964,179,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-36,text,true,,3979,1099,16,16,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004211/lossfinancials,179,1,0,0,0
+1622563610143,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-36,text,true,,2989,0,16,16,null,0,1,0,0,0
+1622563609981,176,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-29,text,true,,3977,1099,15,15,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003996/lossfinancials,176,1,0,0,0
+1622563610157,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-29,text,true,,2989,0,15,15,null,0,1,0,0,0
+1622563609970,190,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-49,text,true,,4095,1099,14,14,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003283/lossfinancials,190,1,0,0,0
+1622563610160,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-49,text,true,,2988,0,14,14,null,0,1,0,0,0
+1622563609981,188,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-18,text,true,,4092,1099,13,13,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00001016/lossfinancials,188,1,0,0,0
+1622563610169,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-18,text,true,,2989,0,13,13,null,0,1,0,0,0
+1622563609986,190,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-20,text,true,,3981,1099,12,12,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MD-00003576/lossfinancials,190,1,0,0,0
+1622563610176,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-20,text,true,,2989,0,12,12,null,0,1,0,0,0
+1622563610019,211,ClaimsAPI Get Adjusters Request,200,OK,Claims API Thread Group 1-21,text,true,,3915,1094,11,11,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004270/Adjusters,211,1,0,0,0
+1622563610230,0,ClaimsAPI Get Adjusters Request-0,200,OK,Claims API Thread Group 1-21,text,true,,2989,0,11,11,null,0,1,0,0,0
+1622563610026,207,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-22,text,true,,4084,1099,11,11,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033/lossfinancials,207,1,0,0,0
+1622563610233,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-22,text,true,,2989,0,11,11,null,0,1,0,0,0
+1622563610017,259,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-50,text,true,,4072,1099,10,10,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004002/lossfinancials,259,1,0,0,0
+1622563610276,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-50,text,true,,2989,0,10,10,null,0,1,0,0,0
+1622563610025,251,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-44,text,true,,4108,1099,9,9,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003991/lossfinancials,251,1,0,0,0
+1622563610276,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-44,text,true,,2989,0,9,9,null,0,1,0,0,0
+1622563610020,262,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-45,text,true,,4094,1099,8,8,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00003513/lossfinancials,262,1,0,0,0
+1622563610282,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-45,text,true,,2989,0,8,8,null,0,1,0,0,0
+1622563610019,264,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-12,text,true,,4086,1099,7,7,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002742/lossfinancials,264,1,0,0,0
+1622563610283,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-12,text,true,,2989,0,7,7,null,0,1,0,0,0
+1622563610031,252,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-10,text,true,,3979,1099,6,6,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/WD-00003505/lossfinancials,252,1,0,0,0
+1622563610283,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-10,text,true,,2989,0,6,6,null,0,1,0,0,0
+1622563610022,294,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-47,text,true,,3967,1099,5,5,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00001892/lossfinancials,294,1,0,0,0
+1622563610316,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-47,text,true,,2989,0,5,5,null,0,1,0,0,0
+1622563610042,274,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-35,text,true,,4093,1099,5,5,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005185/lossfinancials,274,1,0,0,0
+1622563610316,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-35,text,true,,2989,0,5,5,null,0,1,0,0,0
+1622563609978,338,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-16,text,true,,4083,1099,5,5,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/MF-00002033/lossfinancials,338,1,0,0,0
+1622563610316,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-16,text,true,,2988,0,5,5,null,0,1,0,0,0
+1622563610029,367,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-24,text,true,,4084,1099,2,2,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00005172/lossfinancials,367,1,0,0,0
+1622563610396,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-24,text,true,,2989,0,2,2,null,0,1,0,0,0
+1622563610230,184,ClaimsAPI Get LossFinancials Request,200,OK,Claims API Thread Group 1-21,text,true,,3977,1099,1,1,https://dev.gnpapi.protectiveinsurance.com/claims-api/api/v1/claims/SW-00004270/lossfinancials,184,1,0,0,0
+1622563610414,0,ClaimsAPI Get LossFinancials Request-0,200,OK,Claims API Thread Group 1-21,text,true,,2989,0,1,1,null,0,1,0,0,0
